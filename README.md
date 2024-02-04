@@ -1,5 +1,5 @@
  # Lenovo Thinkpad Lap-Detection fix
-- My Thinkpad always thinks it sits on my lap when it does not :( -
+# - My Thinkpad always thinks it sits on my lap when it does not :( -
 
 Simple bash script to change the power mode to performance when the power mode is set to power-saver.
 
